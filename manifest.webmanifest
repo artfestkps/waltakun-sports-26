@@ -7,6 +7,6 @@
   "background_color": "#720000",
   "theme_color": "#720000",
   "icons": [
-    { "src": "assets/logo.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+    { "src": "assets/waltakun-logo-red.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
   ]
 }
