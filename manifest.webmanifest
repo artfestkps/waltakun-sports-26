@@ -1,0 +1,12 @@
+{
+  "name": "WALTAKUN 26 Control Centre",
+  "short_name": "WALTAKUN 26",
+  "description": "Sports & Arts Fest control centre",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#720000",
+  "theme_color": "#720000",
+  "icons": [
+    { "src": "assets/waltakun-logo-red.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
